@@ -1,0 +1,25 @@
+{
+  "name": "string-stream",
+  "version": "1.0.0",
+  "description": "String stream reader, used to parse data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emmetio/string-stream.git"
+  },
+  "keywords": [
+    "string",
+    "parser",
+    "reader",
+    "stream"
+  ],
+  "author": "Sergey Chikuyonok <serge.che@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emmetio/string-stream/issues"
+  },
+  "homepage": "https://github.com/emmetio/string-stream"
+}
